@@ -1,9 +1,0 @@
-<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
-	<title>ethlogo32</title>
-	<defs>
-		<image  width="32" height="32" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAAXNSR0IB2cksfwAAAVxQTFRFR3BMskPBxkWhsTuCsVWXwEbM2Eqs3Ed7sz1kwUbL00fJ3UuE0Ed7yUjI00jS2knS2U6L0kqFxEZ600jQ4EvS00yvzU2OyEqElTKr0UjNv0mDjkCQzkfL5EzUwk2PtkiC403T6U7U5U7Pzk6xvU6UuU2Rt0qKrEiAlx+Txje171DWtk2ZtUuS1HGl4YSukyaUoSGdqh6i1T3BsEqWzmuo9pHF8Iu61XqnkCGhoh6iohui30XK0VG3vVyh+pfM7Iq5lCOenR+itiqxnj+QtVKf6IXC+pbP+ZbJ9pHC5oW0jCOdliCjnBylmRqjw0GxLw4xAgAD3HnC+pbU84/A4IGvjyCklhymUxBbdTVo+ZLW8Iy9kBumklZ//pbbljiqlzCvmS6wmi2wmiywmyywmyuwkSmkPSA474fY7YrS7YvN0XSz0XS0ZS9aPhJGHgget2ClqC6kjDZ+tz6lz0d8b0REKgAAAHR0Uk5TACumIQul/5kIfP76bVrw///pQ9n////MEbimBY///3n3///////uTzbh////2C4Yv///////uBid////////l2n4/////f//92RB5//////////kPMv/////x////4f7/////////////4GB/////////22XHB+9AAABw0lEQVR4nH3Sz08TQRQH8O+zW5lpi0nBFEzDL4GoFzgSw4UrHI1n/wGP/C9Er54NR7h68cANPSmhARUSUiiQUDpTu/X53tCGbrtlsofdeZ+defPdJSQGEbX7ZhJPkQDyDwBLcZbqw8EokcsRXQ4DNEatxwS6aKeDSWppl9JJNU4DZa05sjr5Kw2MjhOkRWVEPwfBS6k4KRmZaRr63g+WQwBOgAlx0V4SlKf0hFdw5SuDnLcud3iaAGvkCebIHr/GdVHWskS7vWBDWwPdFoi4/kSy9LZAn+9B5s2da+SbgKEmVIxX9rpgcna+01EsoEC3CMJ/jTvgnXaNcP4qlc5L4RY4XNzqgPcHCwCHK3sy5e5uWcanDohWjTMoAPn8v+p0rRtR5fis2+TKfC2IkRL/nn5UsaHO2+37Y77lugqePQKe7+dZ67zTG9Q6szOy66uLZx8n5jzY8Jdk1AsN60wDvii/U7Fhmf8ko8aKdg14z2yha33r/9xL7EdkZwGw0sCPgf8BL3QFebUVgWs3GASY0ead7CDsNA1EpVhrEiefIQ0g81QS/pvlS0Y6wBiznvAGwwA2P7QidhgONACOHwDIhLh6x38ph7khbY/ZkgAAAABJRU5ErkJggg=="/>
-	</defs>
-	<style>
-	</style>
-	<use id="Background" href="#img1" x="0" y="0"/>
-</svg>
